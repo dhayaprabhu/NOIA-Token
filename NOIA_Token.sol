@@ -1,17 +1,4 @@
-NOIA Token:
-
-https://etherscan.io/tx/0xe77be86fc9d3ef4f391b23e7acde10be9e9118b22f24b30d18db599d274485cf
-
-
-/**
- *Submitted for verification at Etherscan.io on 2020-09-27
-*/
-
-/**
- *Submitted for verification at Etherscan.io on 2019-07-04
-*/
-
-pragma solidity 0.5.10;
+pragma solidity 0.8.10;
 /* Source code for NOIA Token */
 /**
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
